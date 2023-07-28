@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Testando meu Robô",
+  "version": "1.0",
+  "description": "Uma extensão simples do Chrome feita em React de Robô que envia menssagens :p",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
